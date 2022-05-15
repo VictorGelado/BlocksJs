@@ -22,7 +22,7 @@
 
 ### Links
 
-- Live Site URL: [Solution](https://victorgelado.github.io/BlockJs/)
+- Live Site URL: [Solution](https://victorgelado.github.io/BlocksJs/)
 
 ## My process
 
